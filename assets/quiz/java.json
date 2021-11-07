@@ -1,0 +1,49 @@
+[
+    {
+        "1" : "What is the size of double variable?",
+        "2" : "What is the default value of short variable?",
+        "3" : "Which of the following is Faster, StringBuilder or StringBuffer?",
+        "4" : "Which class does not override the equals() and hashCode() methods, inheriting them directly from class Object?",
+        "5" : "Who is the founder of Java?"
+    },
+    {
+        "1" : {
+            "a" : "8-bit",
+            "b" : "16-bit",
+            "c" : "32-bit",
+            "d" : "64-bit"
+        },
+        "2" : {
+            "a" : "0.0",
+            "b" : "0",
+            "c" : "null",
+            "d" : "undefined" 
+        },
+        "3" : {
+            "a" : "StringBuilder",
+            "b" : "StringBuffer",
+            "c" : "Both of the above.",
+            "d" : "none of the above."
+        },
+        "4" : {
+            "a" : "java.lang.String",
+            "b" : "java.lang.Double",
+            "c" : "java.lang.StringBuffer",
+            "d" : "java.lang.Character"
+        },
+        "5" : {
+            "a" : "James Gosling",
+            "b" : "Brendan Eich",
+            "c" : "Dennis M. Ritchie",
+            "d" : "Guido van Rossum"
+        }
+        
+    },
+    {
+        "1" : "64-bit",
+        "2" : "0.0",
+        "3" : "StringBuilder",
+        "4" : "java.lang.StringBuffer",
+        "5" : "James Gosling"
+    }
+]

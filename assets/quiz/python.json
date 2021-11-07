@@ -1,0 +1,49 @@
+[
+    {
+        "1" : "What is the output for \n'python'  [-3]?",
+        "2" : "What command is used to insert 6 in a list ‘‘L’’ at 3rd position ?",
+        "3" : "Which options are correct to create an empty set in Python?",
+        "4" : "Which method is used to convert raw byte data to a string?",
+        "5" : "Which among them is used to create an object?"
+    },
+    {
+        "1" : {
+            "a" : "'o'",
+            "b" : "'t'",
+            "c" : "'h'",
+            "d" : "Negative index error."
+        },
+        "2" : {
+            "a" : "L.insert(2,6)",
+            "b" : "L.insert(3,6)",
+            "c" : "L.add(3,6)",
+            "d" : "L.append(2,6)" 
+        },
+        "3" : {
+            "a" : "{}",
+            "b" : "()",
+            "c" : "[]",
+            "d" : "Set()"
+        },
+        "4" : {
+            "a" : "Encodde()",
+            "b" : "Decode()",
+            "c" : "Convert()",
+            "d" : "tostring()"
+        },
+        "5" : {
+            "a" : "A class",
+            "b" : "A function",
+            "c" : "A metod",
+            "d" : "A constructor"
+        }
+        
+    },
+    {
+        "1" : "'h'",
+        "2" : "L.insert(2,6)",
+        "3" : "Set()",
+        "4" : "Decode()",
+        "5" : "A constructor"
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "1" : "Which of the following type of variable takes precedence over other if names are same?",
+        "2" : "Which built-in method reverses the order of the elements of an array?",
+        "3" : "Which of the following function of String object returns the calling string value converted to upper case?",
+        "4" : "Which of the following function of Array object represents the source code of an object?",
+        "5" : "What is the HTML tag under which one can write the JavaScript code?"
+    },
+    {
+        "1" : {
+            "a" : "global variable",
+            "b" : "local variable",
+            "c" : "Both of the above.",
+            "d" : " None of the above."
+        },
+        "2" : {
+            "a" : "changeOrder(order)",
+            "b" : "reverse()",
+            "c" : "sort(order)",
+            "d" : "None of the above." 
+        },
+        "3" : {
+            "a" : " toLocaleUpperCase()",
+            "b" : "toUpperCase()",
+            "c" : "toString()",
+            "d" : "substring()"
+        },
+        "4" : {
+            "a" : "toSource()",
+            "b" : "splice()",
+            "c" : "toString()",
+            "d" : "unshift()"
+        },
+        "5" : {
+            "a" : "<javascript>",
+            "b" : "<scripted>",
+            "c" : "<script>",
+            "d" : " <js>"
+        }
+        
+    },
+    {
+        "1" : "local variable",
+        "2" : "reverse()",
+        "3" : "toUpperCase()",
+        "4" : "toSource()",
+        "5" : "<script>"
+    }
+]
